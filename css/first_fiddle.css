@@ -1,0 +1,16 @@
+ul li{
+	font-weight: bold;
+	font-size: 24px;
+}
+#p{
+	text-align: justify;
+    font-size: 21px;
+    word-spacing: 13px;
+}
+.icon{
+	font-size: 40px;
+	color: black;
+}
+.b{
+		background-color: #0000009c;
+	}
