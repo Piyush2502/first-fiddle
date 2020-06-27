@@ -1,6 +1,5 @@
 ul li{
-	font-weight: bold;
-	font-size: 24px;
+	font-size: 19px;
 }
 #p{
 	text-align: justify;
@@ -14,3 +13,14 @@ ul li{
 .b{
 		background-color: #0000009c;
 	}
+
+b{
+	font-size: 72px;
+    font-family: auto;
+    position: relative;
+    top: -200px;
+}
+
+img{
+	width: 270px;
+}
