@@ -12,16 +12,16 @@ ul li{
 }
 .b{
 		background-color: #0000009c;
-	}
-
-b{
-	font-size: 62px;
-    font-family: auto;
-    position: relative;
-    top: -200px;
 }
+
 
 .img2{
 	width: 270px;
 	margin-bottom: 10px;
+}
+.cards{
+	height: 230px;
+	width: 350px;
+	line-height: 32px;
+	display: inline-block;
 }
